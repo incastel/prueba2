@@ -1,4 +1,4 @@
-import java.awt.*;
+﻿import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.Random;
@@ -8,7 +8,7 @@ import javax.swing.border.*;
 
 /**
  * Clase Telefono
- * 
+ * Descripcion: me gustas Justin Bieber. Odio a Metallica, eso no es música.
  * @author Pablo Moreno Pradas
  * @version 14.04.2015
  */
